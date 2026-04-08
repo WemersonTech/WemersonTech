@@ -18,9 +18,9 @@ JavaScript, TypeScript e Python para desenvolvimento de aplicações e lógica d
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
-React e Next.js para construção de interfaces web modernas, utilizando HTML e CSS.
+React para construção de interfaces web modernas, utilizando HTML e CSS.
 
 ---
 
